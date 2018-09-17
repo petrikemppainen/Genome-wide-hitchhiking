@@ -1,6 +1,6 @@
 # Genome-wide-hitchhiking
 Simulatation details for KONE applicaiton
-## Code used for proof of concept
+# Code used for proof of concept
 
 # Run to create population in mutaion drift equilibrium
 ./quantinemo marine_ancestor_forw2.ini --patch_number 10 --patch_capaity 100 --dispersal_rate 0.01 --generations 1000 --ntrl_genot_logtime 1000 --ntrl_ini_genotypes "/home/petrikem/Dropbox/quantiNemo/proof_of_principle/ancestral_coal/simulation_g10000.dat" --folder "ancestral_forw"

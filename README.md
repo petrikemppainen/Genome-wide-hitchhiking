@@ -17,4 +17,4 @@ Simulatation details for KONE applicaiton
 # Print output with code in Figure.R
 Rscript Figure1.R
 
-## Summary of simulation details can be found in simulaton log files for each run in folder quantinemo
+# Summary of simulation details can be found in simulaton log files for each run in folder quantinemo

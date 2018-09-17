@@ -1,0 +1,37 @@
+#############################################
+#                quantiNemo 2               #
+#   version 2.0.0 [Mar 28 2018; 12:10:25]   #
+#       Commit N° : 0cd420b-dirty           #
+#                                           #
+#              Simulation log               #
+# simulation started on 10-08-2018 17:36:40 #
+#              (log as input)               #
+#############################################
+
+
+## simulation
+_settings_file marine_ancestor_coal2.ini
+folder ancestral_coal
+seed {1533911800 470}
+
+## metapop
+coalescence 1
+generations 10000
+patch_capacity 10000
+patch_number 1
+
+## ntrl
+ntrl_all 2
+ntrl_loci 100
+ntrl_mutation_rate 1e-4
+ntrl_save_genotype 1
+
+## save_stats
+stat {n.adlt.ho}
+
+
+#############################################
+#  simulation ended on 10-08-2018 17:36:51  #
+#                                           #
+#  duration of the simulation was 00:00:11  #
+#############################################

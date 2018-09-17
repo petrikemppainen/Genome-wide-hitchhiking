@@ -1,0 +1,7 @@
+Legend of the used statistics
+*****************************
+
+Statistic             Legend
+--------------------------------------------------------------
+alive.rpl           : Nb alive replicates
+n.adlt.ho           : Ho (Nei & Chesser, 1983)(adult, ntrl)

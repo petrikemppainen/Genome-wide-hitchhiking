@@ -1,0 +1,2 @@
+generation  	alive.rpl   	n.adlt.ho   
+10000       	1           	0           

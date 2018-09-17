@@ -1,0 +1,41 @@
+#############################################
+#                quantiNemo 2               #
+#   version 2.0.0 [Mar 28 2018; 12:10:25]   #
+#       Commit N° : 0cd420b-dirty           #
+#                                           #
+#              Simulation log               #
+# simulation started on 12-09-2018 11:16:13 #
+#              (log as input)               #
+#############################################
+
+
+## simulation
+_settings_file marine_ancestor_forw2.ini
+folder ancestral_forw
+seed {1536740173 521}
+
+## metapop
+generations 1000
+patch_capacity 100
+patch_number 10
+
+## ntrl
+ntrl_all 2
+ntrl_genot_logtime 1000
+ntrl_ini_genotypes /home/petrikem/Dropbox/quantiNemo/proof_of_principle/ancestral_coal/simulation_g10000.dat
+ntrl_loci 100
+ntrl_mutation_rate 1e-4
+ntrl_save_genotype 1
+
+## breed
+mating_system 5
+
+## dispersal
+dispersal_rate 0.01
+
+
+#############################################
+#  simulation ended on 12-09-2018 11:16:15  #
+#                                           #
+#  duration of the simulation was 00:00:02  #
+#############################################

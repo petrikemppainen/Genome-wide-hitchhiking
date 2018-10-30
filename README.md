@@ -1,5 +1,6 @@
 # Genome-wide-hitchhiking
-Simulatation details for KONE applicaiton
+Simulatation details for proof of concept of "genome-wide hitch-hiking"
+
 # Code used for proof of concept
 
 # Run to create population in mutaion drift equilibrium
